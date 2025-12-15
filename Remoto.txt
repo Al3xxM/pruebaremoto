@@ -1,0 +1,7 @@
+Archivo remoto que a simulado una participacion dentro del equipo del proyecto final que estabamos realizando.
+
+Este archivo tenemos que descargarlo todos y subirlo al repositirio local para poder subirlo despues al repositorio remoto.
+
+Se ruega que todos los participantes hagan su parte y que se suba al remoto.
+
+Gracias
